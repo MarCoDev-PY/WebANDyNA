@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ANDyNAwebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab1e0b53a822e44370c736980f6e5780250182ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("ANDyNAwebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ANDyNAwebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
